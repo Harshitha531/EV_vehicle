@@ -65,4 +65,3 @@ Jupyter Notebook - For running analysis step by step
 
 I'm Harshitha Dayyala, a student passionate about data analytics and sustainable technologies. This project is part of my learning journey into data science and EV sustainability.
 
-Feel free to connect or contribute!
