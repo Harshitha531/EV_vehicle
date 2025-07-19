@@ -23,7 +23,6 @@ The dataset used is named "EV_vehicle.csv" and includes important details about 
 - Drive Type – FWD, RWD, AWD
 - Body Style – Type of car (SUV, sedan, hatchback, etc.)
 - Segment – Market segment
-- Price – Vehicle cost (if available)
 
  🎯 Project Objectives
 
